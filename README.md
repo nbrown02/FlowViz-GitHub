@@ -25,7 +25,7 @@ If the URL you use is "https://github.com/nbrown02/FlowViz", then nbrown02 is th
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-GitHub/main/Screenshots/Load%203.png)
 
-* Once signed in hit 'Load' and wait for your charts to populate!
+* Once signed in hit 'Connect' and wait for your charts to populate!
 
 ### Wiki/Guidance
 
