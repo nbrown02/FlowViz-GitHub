@@ -38,4 +38,5 @@ For questions on charts, how to use them and other questions check out the [Wiki
 
 ### Feedback
 FlowViz was [originally built for Azure DevOps (TFS/VSTS)](https://github.com/nbrown02/FlowViz/) and is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/).
+
 Please email nicolas.brown@outlook.com for ideas, improvements and feedback.
