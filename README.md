@@ -16,12 +16,14 @@ If the URL you use is "https://github.com/nbrown02/FlowViz", then nbrown02 is th
 
 * It should then look something like this:
 
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/AzDO%20Server%20Login.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-GitHub/main/Screenshots/Load%201.png)
 
 * Hit 'Load' 
 * If you are prompted for a login, enter your GitHub credentials to login:
 
-  ![alt text](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/media/authentication-7.png?view=azure-devops)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-GitHub/main/Screenshots/Load%202.png)
+
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-GitHub/main/Screenshots/Load%203.png)
 
 * Once signed in hit 'Load' and wait for your charts to populate!
 
@@ -30,13 +32,9 @@ If the URL you use is "https://github.com/nbrown02/FlowViz", then nbrown02 is th
 For questions on charts, how to use them and other questions check out the [Wiki](https://github.com/nbrown02/FlowViz-GitHub/wiki).
 
 ### Screenshots
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz.gif)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-GitHub/main/Screenshots/FlowViz%20GitHub%20Page%201.png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz%20Dark%20Mode.gif)
-
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz%20Page%202.png)
-
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/FlowViz%20Page%203.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-GitHub/main/Screenshots/FlowViz%20GitHub%20Page%202.png)
 
 ### Feedback
 FlowViz was originally built for Azure DevOps (TFS/VSTS) and is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/).
