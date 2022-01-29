@@ -4,7 +4,7 @@ This dashboard is for all teams using GitHub for tracking issues, who want to le
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
-* Download the template file
+* [Download the template file](https://github.com/nbrown02/FlowViz-GitHub/raw/main/FlowViz%20(GitHub).pbit)
 * Then you're good to get started!
 
 ### Connectivity
